@@ -1,0 +1,8 @@
+2025-06-23 20:44:42 - Signup step 1 completed for 'xyz@gmail.com'
+2025-06-23 20:45:03 - New user 'xyz@gmail.com' signed up with medical details
+2025-06-23 20:45:14 - ✅ User 'xyz@gmail.com' logged in successfully
+2025-06-23 20:45:20 - User 'xyz@gmail.com' logged out
+2025-06-23 20:45:29 - ❌ Failed login attempt for 'xyz@gmail.com'
+2025-06-23 20:45:40 - ❌ Failed login attempt for 'xyz@gmail.com'
+2025-06-23 20:45:48 - ❌ Failed login attempt for 'xyz@gmail.com'
+2025-06-23 20:46:01 - Login blocked for xyz@gmail.com due to brute-force protection

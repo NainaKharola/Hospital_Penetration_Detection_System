@@ -1,0 +1,26 @@
+{
+    "users": {
+        "admin": {
+            "password_hash": "scrypt:32768:8:1$MG3lbAm3soGI3V85$35ea17a905861d96dbe84b3a9e315625cfbd8dee78a6396775f1c35a1da06988886ed6f66b90a9c5519b5655a0e236fd9d1863b7aecd741c74910ef8ebf8f9ed",
+            "details": {
+                "name": "Admin User",
+                "age": "30",
+                "disease": "None",
+                "blood_group": "O+",
+                "contact": "1234567890",
+                "address": "123 Admin Street"
+            }
+        },
+        "xyz@gmail.com": {
+            "password_hash": "scrypt:32768:8:1$F5eIKoC9Ox34BjU2$0e2d3a5aa224ac99894512f14c4f8d6fc95bacaa2b69bf0194ae5e10652a7f95c5987fa4bfa580256ef73e0841019ba5c55b34fa1ae476d8b89f4c084bbd7535",
+            "details": {
+                "name": "xyz",
+                "age": "20",
+                "disease": "none",
+                "blood_group": "A+",
+                "contact": "7584937729",
+                "address": "sgcvjsk"
+            }
+        }
+    }
+}
